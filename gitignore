@@ -1,0 +1,23 @@
+# Runtime logs
+logs/*
+!logs/.gitkeep
+
+# Local environment files and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
