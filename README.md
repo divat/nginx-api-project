@@ -1,10 +1,10 @@
-# Nginx + Spring Boot Product API
+# Nginx + Spring Boot API
 
-A hands-on Nginx learning project using an existing Spring Boot Product API, Docker, and an Ubuntu virtual machine.
+A hands-on Nginx learning project using an existing Spring Boot API, Docker, and an Ubuntu virtual machine.
 
 This repository demonstrates Nginx as a reverse proxy, static-file server, and caching layer. It also documents broader Nginx concepts used in production so a beginner can follow the practical work and continue learning.
 
-> **Project scope:** One Nginx container, one existing Spring Boot Product API container, and one Docker user-defined bridge network. No Docker Compose, Kubernetes, database, Redis, or additional backend services are required.
+> **Project scope:** One Nginx container, one existing Spring Boot API container, and one Docker user-defined bridge network. No Docker Compose, Kubernetes, database, Redis, or additional backend services are required.
 
 ## Contents
 
